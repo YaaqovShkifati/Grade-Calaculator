@@ -11,7 +11,7 @@ import java.util.Scanner;
 import java.io.PrintStream;
 
 /**
- * The Lab Class.
+ * The Lab Class gets all the lab grades.
  */
 public class Labs extends Grade {
 
