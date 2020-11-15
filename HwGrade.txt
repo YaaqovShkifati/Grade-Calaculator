@@ -1,0 +1,14 @@
+
+Current Prcatice Problem Grades:
+Prctice Problems 1 Grade: 4
+Prctice Problems 2 Grade: 6
+Prctice Problems 3 Grade: 6
+Prctice Problems 4 Grade: 6
+Prctice Problems 5 Grade: 6
+Prctice Problems 6 Grade: 6
+---------------------------------
+
+Potintal Prcatice Problem Grades:
+
+Prctice Problems 7 Grade: 6
+Prctice Problems 8 Grade: 6

@@ -1,0 +1,29 @@
+Data Stuctures Calculator:
+
+Grading Table: 
+Labs: 16 Points
+Practice Problems: 44 Points
+Midetems: 20 Points
+Final: 20 Points
+---------------------------------
+
+Current Total Grades:
+Total Labs: 7
+Total Practice Problems: 34
+Total Midetems: 17
+Total Points: 58
+
+Remaining Points: 42
+---------------------------------
+
+Potintal Final Exam Grades:
+Final Exam: 20
+
+Potintal Total Grades:
+Total Labs: 13
+Total Practice Problems: 46
+Total Midetems: 17
+Total Points: 96
+
+Final Exam: 20
+Letter Grade: A
