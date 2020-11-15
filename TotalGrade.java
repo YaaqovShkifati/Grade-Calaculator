@@ -6,7 +6,7 @@
 package CourseGrade;
 
 /**
- * The TotalGrade class.
+ *  * The TotalGrade class calculates the total grades.
  */
 public class TotalGrade extends Grade{
     
