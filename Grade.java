@@ -7,7 +7,7 @@ package CourseGrade;
 
 /**
  *
- * @author yaaqovshkifati
+ *  The Grades class sets and gets all the grades of each component of the grade.
  */
 public class Grade {
     
