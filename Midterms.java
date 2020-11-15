@@ -11,7 +11,7 @@ import java.util.Scanner;
 import java.io.PrintStream;
 
 /**
- * The midterms class.
+ * The midterms class gets all the midterms grades.
  */
 public class Midterms extends Grade {
 
