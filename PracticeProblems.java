@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * The PracticeProblems class.
+ * The PracticeProblems class gets all the Practice Problems assignments grades.
  */
 public class PracticeProblems extends Grade {
 
