@@ -8,7 +8,7 @@ package CourseGrade;
 import java.util.Scanner;
 
 /**
- * The Final Exam class.
+ *  The Final Exam class gets the desired final exam grade.
  */
 public class FinalExam extends Grade {
     private int finalScore;
