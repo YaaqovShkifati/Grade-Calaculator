@@ -4,6 +4,7 @@
  * @Verison 1.0
  */
 package CourseGrade;
+*
 
 import java.util.Scanner;
 import java.io.PrintStream;
